@@ -4,7 +4,7 @@
 
 <h1 align="center"> |MR.ERROR|</h1>
 
-<h2 align="center"> Hack Tool </h2>
+<h2 align="center"> NBF Tool </h2>
 
 <p align="center">
       NBF IS A HIGH SPEED NUMBER ID CLONER
