@@ -15,7 +15,7 @@
 
 
 
-<b>#installation#</b>
+#<b>installation</b>
 ```
 $ pkg update
 $ pkg upgrade
@@ -30,7 +30,7 @@ $ cd NBF
 $ python2 NBF.py
 ```
 
-Raw
+# Single Command 
 
 ```
 pkg update ; pkg upgrade ; pkg install python ; pkg install python2 ; pip2 install requests ; pip2 install mechanize ; pip2 install bs4 ; pkg install git ; git clone https://github.com/Azim-vau/NBF.git ; cd NBF ; python2 NBF.py
