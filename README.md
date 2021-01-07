@@ -7,7 +7,7 @@
 <h2 align="center"> Hack Tool </h2>
 
 <p align="center">
-      A new international facebook account cracker tool for termux users
+      NBF IS A HIGH SPEED NUMBER ID CLONER
 </p>
 
 
@@ -15,7 +15,7 @@
 
 
 
-#<b>installation</b>
+#<b>installation</b>#
 ```
 $ pkg update
 $ pkg upgrade
