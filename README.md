@@ -15,7 +15,8 @@
 
 
 
-#<b>installation</b>#
+## <b>installation</b>
+
 ```
 $ pkg update
 $ pkg upgrade
